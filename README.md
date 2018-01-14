@@ -5,3 +5,5 @@ Game yang memiliki esensi seperti kehidupan manusia yang kadang dibawah dan diat
 ## Browser
 
 [Mainkan](http://game.abdymalikmulky.com/rodakehidupan.html)
+
+<iframe width="560" height="315" src="http://game.abdymalikmulky.com/rodakehidupan.html" frameborder="0" allowfullscreen></iframe>
